@@ -1,3 +1,4 @@
+#-×- coding:utf-8 -*-
 """
 snake matrix就是蛇形矩阵，例如输入n = 3时矩阵为：
 1 2 6
